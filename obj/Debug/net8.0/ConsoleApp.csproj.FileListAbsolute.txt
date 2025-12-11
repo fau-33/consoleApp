@@ -1,0 +1,14 @@
+/home/flavio/danki_c/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/flavio/danki_c/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/flavio/danki_c/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/flavio/danki_c/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/flavio/danki_c/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/flavio/danki_c/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

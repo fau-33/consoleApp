@@ -1,4 +1,8 @@
-public class Calculadora1
+using System;
+
+namespace ConsoleApp.OperacoesAritmeticas
+{
+    public class Calculadora1
 {
     public void Calcular1()
     {
@@ -39,5 +43,6 @@ public class Calculadora1
         {
             Console.WriteLine("A divisão é: " + (numero1 / numero2));
         }
+    }
     }
 }

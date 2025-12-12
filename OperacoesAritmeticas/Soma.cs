@@ -1,6 +1,8 @@
-namespace ConsoleApp.OperacoesAritmeticas;
+using System;
 
-public class Soma
+namespace ConsoleApp.OperacoesAritmeticas
+{
+    public class Soma
 {
     public void Executar()
     {
@@ -13,5 +15,6 @@ public class Soma
         int total = num1 + num2;
 
         Console.WriteLine("O total é: " + total);
+    }
     }
 }

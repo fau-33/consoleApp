@@ -1,5 +1,8 @@
+using System;
 
-public class Calculadora
+namespace ConsoleApp.OperacoesAritmeticas
+{
+    public class Calculadora
 {
     public void Calcular()
 
@@ -19,5 +22,6 @@ public class Calculadora
         Console.WriteLine("A Subtração é: " + subtracao);
         Console.WriteLine("A Multiplicação é: " + multiplicacao);
         Console.WriteLine("A Divisão é: " + divisao);
+    }
     }
 }

@@ -1,0 +1,16 @@
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.sourcelink.json
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\danki_c\consoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\danki_c\consoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\danki_c\consoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\danki_c\consoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
